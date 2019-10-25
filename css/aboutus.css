@@ -1,0 +1,33 @@
+.banner{
+    padding: 3px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    width:700px;
+    height:150px;
+    background-color: white;
+    text-align: center;
+}
+.banner p{
+    margin:0 5px 0 5px; 
+    text-align: justify;
+}
+.text {
+
+    float: right;
+    margin-top: 200px;
+    margin-right: 20px;
+}
+.text img{
+    width:40px;
+    height: 40px;
+   
+}
+.text p{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial;
+    color :white;
+    margin-top: -30px;
+    margin-left: 60px;
+}

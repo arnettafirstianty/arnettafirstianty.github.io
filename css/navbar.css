@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    background-image: url(../img/BeFunky-photocb1.png);
+    background-size: cover;
+    background-position: 0 -100px;
+}
+.nav{
+    background-color: white;
+    padding: 15px;
+    height:30px;
+}
+.nav img{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin-top:-10px;
+}
+.nav p{
+    margin-top: -2px;
+    display: inline-block;
+    font-size: 23px;
+    margin-left: 60px;
+}
+.nav p span{
+    display: inline-block;
+    color:rgb(247, 247, 88);
+}
+.nav ul{
+    margin-top: -1px;
+    float: right;
+}
+.nav ul li{
+    display: inline-block;
+    font-size: 18px;
+    margin: 0 40px;
+}
+.nav a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+}

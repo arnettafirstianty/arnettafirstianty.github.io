@@ -1,0 +1,74 @@
+p {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+.black {
+  font-size: 26px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.blue {
+  color: #557A7D;
+}
+
+.yellow {
+  color: #AB953B;
+  font-weight: bold;
+}
+
+.register {
+  width: 360px;
+  margin-top: 80px;
+    margin-left: 500px;
+}
+
+.form {
+  position: relative;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 0px 30px 20px 30px;
+  border-radius: 15px;
+}
+
+.input-container i {
+  position: absolute;
+}
+
+.input-container {
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.input-field:focus {
+  border: 2px solid #557A7D;
+}
+
+.checkbox {
+  font-size: 10px;
+  text-align: center;
+}
+
+.button {
+  margin-top: 15px;
+  background-color: #557A7D;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 10px;
+}

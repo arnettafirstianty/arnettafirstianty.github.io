@@ -1,0 +1,128 @@
+
+.masuk{
+  background-color: #557A7D;
+  color: white;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+  border-radius: 20px;
+  float: left;
+
+}
+
+.daftar{
+  margin-top: 15px;
+  background-color: #557A7D;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+  border-radius: 20px;
+  float: left;
+}
+
+.input-field {
+  width: 290px;
+  padding: 20px;
+  outline: none;
+  text-align: center;
+  border-radius: 10px;
+  float: right;
+    height: 8px;
+    margin-top: 8px;
+}
+
+.masuk{
+  margin-top: 15px;
+  background-color: #557A7D;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+  border-radius: 20px;
+  float: left;
+}
+
+.daftar{
+  margin-top: 15px;
+  background-color: #557A7D;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+  border-radius: 20px;
+  float: left;
+}
+
+.cari{
+  background-color: #557A7D;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  width: 8%;
+  border-radius: 8px;
+  float: right;
+    margin-right: 30px;
+    margin-top: 18px;
+    margin-left: 10px;
+  
+}
+
+.artikel{
+    margin-left:450px;
+    margin-top: 0px;
+    width: 400px;
+    height: 410px;
+    background: white;
+	padding: 5% 3%;
+	border-radius: 20px;
+	background-color: white;
+  float: center;
+    padding-top: 0px;
+}
+
+.artikel p{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    margin-top:0px; 
+}
+
+.tulisartikel img{
+    margin-left: 130px;
+    margin-top: 0px;
+}
+
+
+.input-field{
+   
+}
+.tulisartikel a{
+    margin-top: 30px;
+}
+
+.welcome p{
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.LogOut{
+  background-color:darkseagreen;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  width: 80px;
+  border-radius: 8px;
+  float: right;
+    margin-right: 770px;
+    margin-top: 10px;
+    margin-left: 15x;
+    font-weight: bold;
+    
+  
+}

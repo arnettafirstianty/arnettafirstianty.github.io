@@ -1,0 +1,87 @@
+p1 {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+
+.black {
+  font-size: 26px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.blue {
+  color: #557A7D;
+}
+
+.yellow {
+  color: #AB953B;
+  font-weight: bold;
+}
+
+.register {
+  width: 360px;
+  padding-top: 30px;
+  margin: auto;
+}
+
+.form {
+  background: #FFFFFF;
+  max-width: 360px;
+  margin-bottom: auto;
+  padding: 5px 30px 20px 30px;
+  border-radius: 15px;
+}
+
+.input-container i {
+  position: absolute;
+}
+
+.input-container {
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.input-field:focus {
+  border: 2px solid #557A7D;
+}
+
+.checkbox {
+  font-size: 10px;
+  text-align: center;
+}
+
+
+.textarea {
+  width: 90%;
+  padding: 10px;
+height: 50px;
+  outline: none;
+  text-align: center;
+  border-radius: 0px;
+}
+.button{
+    margin-top: 15px;
+    background-color: #557A7D;
+  width: 80%;
+    height: 50px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button p{
+    padding-top: 15px;
+    color: aliceblue;
+    font-size: 20px;
+}

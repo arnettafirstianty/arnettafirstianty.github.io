@@ -1,0 +1,40 @@
+.page{
+	color: white;
+}
+.content{
+	width: 650px;
+	height:200px;
+	margin:5% auto;
+	background-color: white;
+	border-radius: 10px;
+	padding: 10px;
+}
+.content p{
+	color: black;
+	font-size: 20px;
+}
+.clear{
+	clear: left;
+}
+.content .bungkus{
+	margin:auto;
+	width: 630px;
+}
+.content .kotak{
+	float: left;
+	margin:10px ;
+	width:130px;
+	height:70px;
+	border:1px solid grey;
+	border-radius:5px;
+	cursor: pointer;
+}
+.content .kotak img{
+	float: left;
+	width: 50px;
+	height:40px;
+	margin-top: 6px;
+}
+.content .bungkus .kotak p{
+margin-left: 5px;
+}

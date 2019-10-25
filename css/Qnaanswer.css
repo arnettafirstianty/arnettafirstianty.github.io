@@ -1,0 +1,102 @@
+.banner{
+    padding: 3px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 15px;
+    width:700px;
+    height:150px;
+    background-color: white;
+    text-align: center;
+}
+.Button{
+    width: 80px;
+    height: 30px;
+    background-color: #557A7D;
+    color: aliceblue;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 600px;
+    border-radius: 8px;
+    cursor: pointer;
+    
+}
+.Button1{
+    width: 80px;
+    height: 30px;
+    background-color: #557A7D;
+    color: aliceblue;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 600px;
+    border-radius: 8px;
+    margin-left: 390px;
+    
+}
+
+
+.banner1{
+    padding: 8px;
+    margin: 50px;
+    margin-top: 95px;
+    margin-left:px;
+    border-radius: 8px;
+    width:500px;
+    height:170px;
+    background-color: white;
+    float: left;
+
+    
+    
+}
+
+
+.banner p{
+    margin:0 5px 0 5px; 
+    text-align: justify;
+}
+.text {
+
+    float: right;
+    margin-top: 200px;
+    margin-right: 20px;
+}
+.text img{
+    width:40px;
+    height: 40px;
+   
+}
+.text p{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial;
+    color :white;
+    margin-top: -30px;
+    margin-left: 60px;
+}
+
+.Button2{
+      width: 80px;
+    height: 30px;
+    background-color: #557A7D;
+    color: aliceblue;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 600px;
+    border-radius: 8px;
+    margin-left: 390px;
+    
+}
+ 
+.Button3{
+    width: 250px;
+    height: 50px;
+    background-color: #557A7D;
+    color: aliceblue;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 600px;
+    border-radius: 8px;
+    margin-left:0px;
+    
+    
+}

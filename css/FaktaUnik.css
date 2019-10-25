@@ -1,0 +1,61 @@
+.banner{
+    padding: 3px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    width:1100px;
+    height:550px;
+    background-color: white;
+    text-align: center;
+}
+.banner p{
+    text-align: center;
+    margin-right: 700px;
+    text-align: Hobo Std;
+    font-size: 40px;
+    color:#495777;
+    
+}
+
+.button img{
+    width: 300px;
+    margin-top: 18px;
+    height: 200px;
+    float: left;
+    margin-left: 35px;
+}
+.input-field {
+  width: 290px;
+  padding: 20px;
+  outline: none;
+  text-align: center;
+  border-radius: 10px;
+    height: 8px;
+    margin-bottom: 12px;
+    margin-left: 0px
+}
+.cari{
+  background-color: #557A7D;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  width: 8%;
+  border-radius: 8px;
+    margin-right: 30px;
+    margin-top: 18px;
+    margin-left: 10px;
+    margin-bottom: 5px
+  
+}
+.Tulis p{
+    font-size: 26px;
+    color: darkslategray;
+    margin-top: 220px;
+    margin-right: 850px;
+    
+}
+.Tulis img{
+    margin-right: 950px;
+    display: inline-block;
+}
